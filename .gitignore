@@ -6,3 +6,5 @@ node_modules/
 uploads/
 vector_db/
 .vscode/
+chroma_db/
+*.db
